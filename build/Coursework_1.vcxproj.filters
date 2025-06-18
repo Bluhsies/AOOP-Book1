@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Bike.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Car.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\CommercialTruck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\GameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Truck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\UtilityTruck.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Vehicle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Bike.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Car.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\CommercialTruck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\GameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Truck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\UtilityTruck.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Bluh1\OneDrive\Desktop\University Work\Year 2\Advanced OOP\LabBook1v4\Vehicle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{8BBD3AF8-54FA-3CCD-9FFB-DF76967A0241}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{232E60E4-7888-3108-A1C5-9B37051DF74C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
